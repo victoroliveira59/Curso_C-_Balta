@@ -1,0 +1,15 @@
+F:\C#\MeuApp\bin\Debug\net8.0\MeuApp.exe
+F:\C#\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+F:\C#\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+F:\C#\MeuApp\bin\Debug\net8.0\MeuApp.dll
+F:\C#\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.sourcelink.json
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.dll
+F:\C#\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+F:\C#\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+F:\C#\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
